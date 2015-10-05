@@ -29,4 +29,21 @@ public class Crime {
     public void setmTitle(String mTitle) {
         this.mTitle = mTitle;
     }
+
+    public boolean ismSolved() {
+        return mSolved;
+    }
+
+    public void setmSolved(boolean mSolved) {
+        this.mSolved = mSolved;
+    }
+
+    public Date getmDate() {
+
+        return mDate;
+    }
+
+    public void setmDate(Date mDate) {
+        this.mDate = mDate;
+    }
 }
