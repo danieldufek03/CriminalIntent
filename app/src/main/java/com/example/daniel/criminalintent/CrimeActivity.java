@@ -1,3 +1,17 @@
+/**
+ * I like this explanation of fragments
+ *
+ * "Fragments are of a UI benefit in my opinion. It's convenient for the user sometimes to see two
+ * different views of two different classes on the same screen. If, in your moment of creativity,
+ * you decide it would be nice to display your application with, say, a listView that takes up half
+ * the screen and a webView that takes up the other half - so that when you click on a list item in
+ * fragment A it passes an intent to the webView in fragment B, and suddenly you see what you just
+ * clicked without the app switching activities - then you could use a fragment. That's just an example
+ * I came up with off the top of my head."
+ *
+ * -Taken from Stack Overflow
+ * http://stackoverflow.com/questions/8597769/when-should-i-use-fragments-in-android-applications-why-to-use-fragments
+ */
 package com.example.daniel.criminalintent;
 
 import android.os.Bundle;
