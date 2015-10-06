@@ -61,6 +61,7 @@ public class CrimeFragment extends Fragment{
                 mCrime.setmSolved(isChecked);
                 }
             }
+
         );
 
 
